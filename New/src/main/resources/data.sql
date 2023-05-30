@@ -1,0 +1,1 @@
+INSERT INTO carrental(carnum,carname,cartype,carrent) VALUES('DL10CV1387','SELTOS','SUV','2000');
